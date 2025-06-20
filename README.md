@@ -21,5 +21,5 @@ Sebuah API sederhana menggunakan Express.js dan Google GenAI (Gemini) untuk memb
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/yourusername/gemini-chat-api.git
-   cd gemini-chat-api
+   git clone https://github.com/ilfijandrisno/gemini-chatbot-api
+   
